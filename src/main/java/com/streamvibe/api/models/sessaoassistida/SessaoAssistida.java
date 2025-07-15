@@ -1,4 +1,4 @@
-package main.java.com.streamvibe.api.models.sessaoassistida;
+package com.streamvibe.api.models.sessaoassistida;
 
 public class SessaoAssistida {
     private Long id;
